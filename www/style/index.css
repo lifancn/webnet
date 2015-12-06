@@ -1,0 +1,2 @@
+.wrap header ul {display: -webkit-box;}
+.wrap header ul li{height: 40px;line-height: 40px;-webkit-box-flex:1;background: -webkit-linear-gradient(#009999,#0099CC);text-align: center;border: 1px solid #660066;}
